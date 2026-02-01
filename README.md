@@ -37,7 +37,7 @@ If you prefer to run the raw script or modify the code:
 1.  Download and install [AutoHotkey v2](https://www.autohotkey.com/).
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/ali291384/Trayify.git](https://github.com/ali291384/Trayify.git)
+    git clone https://github.com/ali291384/Trayify.git
     ```
 3.  Run the script:
     * Double-click `src/Trayify.ahk` to launch it immediately.
