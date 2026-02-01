@@ -23,9 +23,25 @@
 
 ## 📦 Installation
 
+### The Easy Way (Recommended)
+No installation required. Just download and run.
+
+1.  Go to the [Releases](../../releases/latest) page.
+2.  Download `Trayify.exe`.
+3.  Place it anywhere you like (e.g., your Documents folder) and run it.
+    * *Optional: to start Trayify automatically with Windows, place a shortcut to the .exe in your Startup folder.*
+
+### Run from Source
+If you prefer to run the raw script or modify the code:
+
 1.  Download and install [AutoHotkey v2](https://www.autohotkey.com/).
-2.  Clone this repository.
-3.  Run `src/Trayify.ahk`.
+2.  Clone this repository:
+    ```bash
+    git clone [https://github.com/ali291384/Trayify.git](https://github.com/ali291384/Trayify.git)
+    ```
+3.  Run the script:
+    * Double-click `src/Trayify.ahk` to launch it immediately.
+    * *Or* Right-click `src/Trayify.ahk` → **Compile Script** to build your own `.exe`.
 
 ## 🪄 Usage
 
