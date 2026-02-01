@@ -23,6 +23,12 @@
 1.  **To Hide:** Hold **`Shift`** and click the **Minimize button** (_) on any window.
 2.  **To Restore:** Click the **Trayify icon** in your system tray area.
 
+## 🔧 Under the Hood
+
+Trayify uses Windows API hooks to intercept window events:
+* [cite_start]**Event Hook:** Uses `SetWinEventHook` to detect minimization actions[cite: 6].
+* [cite_start]**Icon Management:** Implements `Shell_NotifyIconW` to handle tray interactions reliably[cite: 32].
+
 ## 📄 License
 
 [MIT](LICENSE)
