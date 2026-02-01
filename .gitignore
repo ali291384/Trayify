@@ -1,0 +1,10 @@
+*.exe
+
+*.bak
+*.tmp
+temp.*
+
+Thumbs.db
+Desktop.ini
+
+.vscode/
