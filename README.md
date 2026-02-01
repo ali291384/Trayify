@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="./LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
-  </a>
   <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version 1.0">
 </p>
 
@@ -31,7 +29,7 @@
 
 ## 🪄 Usage
 
-1.  **To Hide:** Hold **`Shift`** and click the **Minimize button** (_) on any window.
+1.  **To Hide:** Hold **`Shift`** and click the **Minimize button** on any window.
 2.  **To Restore:** Click the **Trayify icon** in your system tray area.
 
 ## 🔧 Under the Hood
